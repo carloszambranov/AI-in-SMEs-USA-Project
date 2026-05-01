@@ -1,0 +1,61 @@
+year,industry,adoption_rate,avg_ai_investment_usd,avg_productivity_gain_pct,n_companies
+2019,Technology & Software,0.5263,58808.0,30.06,57
+2019,Finance & Insurance,0.4783,104047.0,25.48,46
+2019,Healthcare & Biotech,0.2,40285.0,24.7,45
+2019,Retail & E-commerce,0.2708,310271.0,22.09,48
+2019,Manufacturing,0.3469,94894.0,22.11,49
+2019,Professional Services,0.3148,56858.0,24.8,54
+2019,Education,0.18,84364.0,30.11,50
+2019,Hospitality & Food,0.1132,68305.0,25.41,53
+2019,Construction,0.1346,63790.0,23.3,52
+2019,Agriculture,0.0638,87926.0,17.92,47
+2020,Technology & Software,0.6078,175259.0,24.51,51
+2020,Finance & Insurance,0.5085,198087.0,26.26,59
+2020,Healthcare & Biotech,0.371,152987.0,23.69,62
+2020,Retail & E-commerce,0.34,24905.0,28.76,50
+2020,Manufacturing,0.3684,352187.0,26.61,57
+2020,Professional Services,0.4468,82576.0,29.23,47
+2020,Education,0.2069,32910.0,30.34,58
+2020,Hospitality & Food,0.0896,7020.0,26.68,67
+2020,Construction,0.0385,179225.0,34.93,52
+2020,Agriculture,0.1389,30157.0,29.35,72
+2021,Technology & Software,0.8026,103499.0,25.46,76
+2021,Finance & Insurance,0.5443,109379.0,25.83,79
+2021,Healthcare & Biotech,0.55,82785.0,26.56,80
+2021,Retail & E-commerce,0.3816,67563.0,26.8,76
+2021,Manufacturing,0.3143,95095.0,23.01,70
+2021,Professional Services,0.4474,65521.0,27.67,76
+2021,Education,0.2297,19082.0,28.73,74
+2021,Hospitality & Food,0.1829,15407.0,29.98,82
+2021,Construction,0.1646,60414.0,26.26,79
+2021,Agriculture,0.0548,5381.0,16.84,73
+2022,Technology & Software,0.8333,104378.0,25.99,78
+2022,Finance & Insurance,0.7614,370581.0,25.27,88
+2022,Healthcare & Biotech,0.6222,140889.0,27.37,90
+2022,Retail & E-commerce,0.5094,68573.0,25.71,106
+2022,Manufacturing,0.3434,386748.0,25.7,99
+2022,Professional Services,0.6098,99839.0,29.18,82
+2022,Education,0.2917,40127.0,24.88,96
+2022,Hospitality & Food,0.1647,31044.0,25.53,85
+2022,Construction,0.1728,34955.0,24.66,81
+2022,Agriculture,0.1684,53371.0,25.85,95
+2023,Technology & Software,0.9474,96546.0,23.79,114
+2023,Finance & Insurance,0.7812,109809.0,26.42,96
+2023,Healthcare & Biotech,0.7522,101331.0,26.36,113
+2023,Retail & E-commerce,0.5182,79810.0,26.91,110
+2023,Manufacturing,0.4595,196830.0,24.5,111
+2023,Professional Services,0.5492,52875.0,26.41,122
+2023,Education,0.4019,40070.0,25.06,107
+2023,Hospitality & Food,0.2589,21176.0,26.47,112
+2023,Construction,0.1939,20175.0,28.53,98
+2023,Agriculture,0.1797,28338.0,26.41,128
+2024,Technology & Software,0.9748,77225.0,25.58,119
+2024,Finance & Insurance,0.8241,192955.0,26.71,108
+2024,Healthcare & Biotech,0.6944,110874.0,25.99,108
+2024,Retail & E-commerce,0.6897,44354.0,25.69,116
+2024,Manufacturing,0.463,256528.0,25.74,108
+2024,Professional Services,0.6589,89099.0,26.28,129
+2024,Education,0.404,68592.0,23.82,99
+2024,Hospitality & Food,0.2937,95363.0,25.42,126
+2024,Construction,0.1927,157566.0,27.49,109
+2024,Agriculture,0.1984,50765.0,24.62,126
