@@ -4,9 +4,13 @@ US SMEs (2019–2028)
 **IronHack Data Science Bootcamp
 Final Project**
 
+
 > An end to end data science platform analyzing Artificial Intelligence adoption across US Small & Medium Enterprises. Built for two audiences: **business owners** seeking competitive advantage through AI, and **investors** identifying high growth opportunities in the AI transformation of Main Street America.
 
 ---
+
+Video presentation
+https://docs.google.com/presentation/d/1pzEW_NDmVhS8FQF0YtnTq5UZxjGMcT8c/edit?usp=share_link&ouid=109855476680623634124&rtpof=true&sd=true
 
 ## What This Project Does
 
